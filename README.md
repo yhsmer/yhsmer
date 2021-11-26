@@ -9,6 +9,6 @@ I'm Yhsm Sye, a postgraduate student at SEL@ZJU.
 - 🌱 Taking courses & doing assignments at ZJU
 - 👯 Software Engineering Lab
 - 👨 Pronouns: he/him
-- ⚡ Fun fact: Third-rate university, third-rate person 😄
+- ⚡ Fun fact: third-rate university, third-rate person 😄
 
 ---
